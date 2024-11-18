@@ -1,4 +1,4 @@
-import { Hammer, Instagram, Facebook, Youtube } from 'lucide-react';
+import { Hammer, Instagram, Facebook } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -32,14 +32,6 @@ export default function Footer() {
               >
                 <Facebook size={20} />
               </a>
-              <a
-                href="https://youtube.com/forjaartesanal"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-gray-400 hover:text-amber-500 transition-colors"
-              >
-                <Youtube size={20} />
-              </a>
             </div>
           </div>
 
@@ -68,9 +60,9 @@ export default function Footer() {
             <h3 className="text-white font-semibold mb-4">Horario de Atención</h3>
             <ul className="space-y-2 text-sm">
               <li>Lunes a Viernes</li>
-              <li className="text-amber-500">9:00 - 21:00</li>
+              <li className="text-amber-500">8:00 - 21:00</li>
               <li>Sábados</li>
-              <li className="text-amber-500">9:00 - 19:00</li>
+              <li className="text-amber-500">8:00 - 19:00</li>
             </ul>
           </div>
         </div>

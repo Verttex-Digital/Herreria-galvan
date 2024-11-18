@@ -18,17 +18,17 @@ export default function Portfolio() {
     {
       title: "Baranda de escalera en Escobar",
       category: "Herrería Artística",
-      image: "https://i.postimg.cc/fRhs51kj/IMG-20241106-WA0105.jpg"
+      image: "https://i.postimg.cc/mgd8Bnnh/Imagen-de-Whats-App-2024-11-12-a-las-13-24-09-16abc034.jpg"
     },
     {
-      title: "Rejas de ventanas en San Andres de Giles",
+      title: "Parrilla",
       category: "Herrería Industrial",
       image: "https://i.postimg.cc/Hk4gN3yG/Imagen-de-Whats-App-2024-11-05-a-las-14-28-07-b5811eb2.jpg"
     },
     {
       title: "Alero para puerta principal en Mercedes ",
       category: "Herrería Artística",
-      image: "https://i.postimg.cc/LsxV6qWC/IMG-20241106-WA0043.jpg"
+      image: "https://i.postimg.cc/hP29dd15/IMG-20241106-WA0043.jpg"
     }
   ];
 
@@ -38,7 +38,7 @@ export default function Portfolio() {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-white mb-4">Portfolio</h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Explora nuestra selección de trabajos realizados, donde cada pieza cuenta una historia
+            Explora nuestra selección de algunos de nuestros trabajos realizados, donde cada pieza cuenta una historia
             única de artesanía y dedicación.
           </p>
         </div>

@@ -44,7 +44,7 @@ export default function Contact() {
                 <h4 className="text-white font-medium mb-4">Mis redes sociales</h4>
                 <div className="flex space-x-4">
                   <a
-                    href="https://instagram.com/forjaartesanal"
+                    href="https://www.instagram.com/herreria.agalvan/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-amber-500 transition-colors"
@@ -52,7 +52,7 @@ export default function Contact() {
                     <Instagram size={24} />
                   </a>
                   <a
-                    href="https://facebook.com/forjaartesanal"
+                    href="https://www.facebook.com/profile.php?id=61568563682039"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-amber-500 transition-colors"
